@@ -37,7 +37,7 @@ This site is a reflection of my journey and a statement of my brand:
 
 ## 📸 Preview
 
-![Screenshot of Techgod Portfolio](https://drive.google.com/file/d/13051ELIT7GxiCUnGstn89gmKDOjisxSh/view?usp=sharing)
+![Screenshot of Techgod Portfolio](https://imgur.com/a/niwBt82)
 
 ## 📄 CV Download
 
