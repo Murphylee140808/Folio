@@ -1,62 +1,69 @@
-# 🌐 Techgod | Developer Portfolio (Portfolio V1.0)
+# 🌐 Techgød | Developer Portfolio
 
-Welcome to **Techgod's Portfolio** — a clean, accessible, and semantic HTML5-based portfolio that showcases my projects, technical skills, education, and professional interests.
+Welcome to **Techgød’s Developer Portfolio** — a modern, accessible, and expressive digital profile that showcases not just skills, but soul. This project is built with clean semantic HTML and CSS, prioritizing usability, inclusivity, and street-inspired creativity through a unique brand identity: **Blqck-Tøthe🌚🤔**.
 
-## 🔥 About Me
+## 🎯 Purpose
 
-I'm **Omowumi Akindehinde** aka **Techgod** — a creative and inclusive software engineer on a mission to build digital experiences that go beyond just code. 
-I value accessibility, performance, and human-centered design.
+This portfolio highlights:
+- My background and personal story
+- My education and professional values
+- Projects and case studies
+- Technical skills and interests
+- A visual **image gallery** with lightbox effect (built without JavaScript)
+- A contact form powered by [Formspree](https://formspree.io)
 
-This site is a reflection of my journey and a statement of my brand:  
-**Blqck-Tøthe🤔** — where culture meets code.
-
-## 🚀 Features
-
-- 🌍 Semantic HTML5 markup
-- ♿ Accessible design with ARIA attributes
-- 📱 Fully responsive layout
-- 🌟 Visually enhanced with CSS
-- 🧭 Keyboard navigable & skip links
-- 🧾 Downloadable CV
-- 📬 Contact form (powered by Formspree)
-
-## 📁 Folder Structure
-
-📦 Portfolio V1.0/
-├── index.html
-├── styles.css
-├── techgod.png
-└── README.md
-
-## 🛠️ Built With
-
-- **HTML5** – for semantic structure
-- **CSS3** – for styling and responsiveness
-- **Formspree** – for contact form functionality
-- **GitHub** – version control and deployment
+---
 
 ## 📸 Preview
 
-![Screenshot of Techgod Portfolio](https://imgur.com/a/niwBt82)
-
-## 📄 CV Download
-
-You can [📄 download my CV here](https://drive.google.com/file/d/16CVu8LdWcA3moy7XziJejyyHs0MVksgc/view?usp=sharing).
-
-## 📫 Contact
-
-If you'd like to connect or collaborate, feel free to use the contact form on the site or reach out via [GitHub](https://github.com/Murphylee140808).
+![Preview](./Assets/image.jpg)
 
 ---
 
-### 🔖 License
+## 🛠 Tech Stack
 
-This project is licensed under the [MIT License](LICENSE).
+- **HTML5** – Semantic and accessible structure
+- **CSS3** – Responsive design with custom styles
+- **Formspree** – Email form handling
+- **Lightbox (CSS-only)** – Image viewer with no JavaScript
 
 ---
 
-### 🙏 Acknowledgements
+## 📂 Folder Structure
 
-- HTML5 & ARIA documentation
-- WAVE & Lighthouse for accessibility testing
-- You — for visiting!
+```bash
+.
+├── index.html
+├── styles.css
+├── Assets/
+│   ├── techgod.png
+│   ├── image (1).jpg
+│   ├── image (2).jpg
+│   └── ... more gallery images ...
+
+
+🚀 Features
+🌍 Accessible Navigation – Includes skip links, aria attributes, and descriptive landmarks
+
+🧠 Blqck-Tøthe🌚🤔 Brand Integration – A culture-forward tech identity
+
+🖼️ Image Gallery – Images with full-screen lightbox (no JS)
+
+📄 Downloadable CV
+
+📬 Formspree Contact Form – Secure form submissions
+
+📬 Contact
+GitHub: @Murphylee140808
+
+Email: akindehindeomowumi@gmail.com
+
+Phone: +234-810-441-1111
+
+🧠 Inspiration
+This project was inspired and supported by Power Learn Project (PLP) — a platform that empowers African youth to innovate and represent through tech.
+
+📜 License
+This project is open-source and available under the MIT License.
+
+💡 “I’m not just coding for the now — I’m coding for a future where everyone feels seen.” – Techgød
