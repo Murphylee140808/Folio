@@ -9,7 +9,7 @@ body {
   color: #333;
   background-color: #fefefe;
 }
-
+/* Links Area */
 a {
   text-decoration: none;
 }
@@ -69,16 +69,15 @@ a:active {
   font-weight: 500;
   text-align: center;
   color: #444;
-}
+} 
 
-
+/* Beginz of Header */
 header {
   text-align: center;
   padding: 2rem 0;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
   border-radius: 12px;
-  margin-bottom: 2rem;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -107,15 +106,23 @@ header:hover {
   transform-origin: center;
 }
 
+/* Nav bar beginz */
+ 
+nav {
+  /* padding: 1rem 0; */
+  background-color: #fff;
+}
 
 nav ul {
   list-style: none;
   padding: 0;
+  margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   gap: 1rem;
-  margin: 1rem 0;
+  max-width: 1000px;
 }
 
 nav a {
@@ -129,10 +136,12 @@ nav a {
   box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
 }
 
-nav a:hover, nav a:focus {
+nav a:hover,
+nav a:focus {
   background: #e0e0e0;
   transform: scale(1.05);
-}
+} 
+ /* Nav bar ending */
 
 section {
   margin: 2rem 0;
@@ -157,6 +166,7 @@ section {
   transform: scale(1.05);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
+/* Profile Image Ending */
 
 .project-grid {
   display: grid;
@@ -177,7 +187,8 @@ section {
   transform: translateY(-5px);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
 }
-
+/* End of Project */
+/* Footer Beginz */
 footer {
   text-align: center;
   margin-top: 2rem;
@@ -222,8 +233,8 @@ footer {
 .contact-form button:focus {
   background: #5a67d8;
 }
-
-
+/* Contact Ending */
+/* Address Block Start */
 address {
   font-style: normal;
   background: #f9f9f9;
@@ -250,6 +261,7 @@ address a:focus {
   text-decoration: underline;
 }
 
+/* Curriculm Vitamin */
 .cv-download {
   display: inline-block;
   padding: 12px 24px;
@@ -278,7 +290,7 @@ address a:focus {
   }
 
   nav ul {
-    flex-direction: column;
+    /* flex-direction: column; */
     align-items: center;
   }
 
